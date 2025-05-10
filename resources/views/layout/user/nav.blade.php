@@ -60,6 +60,9 @@
                             <a class="dropdown-item {{ \Request::is('tren-harga') ? 'active' : '' }}" href="/tren-harga">Tren Harga</a>
                         </div>
                     </li>
+                    <li class="nav-item">
+                        <a href="/login" class="nav-link">Login</a>
+                    </li>
                 </ul>
             </div>
 
